@@ -20,10 +20,8 @@ I am a aspiring Java Backend Developer with a passion and curiosity for learning
 
 - :zap: I am efficient in HTML, CSS, Javascript and Java.
 
-- :mailbox:How to reach me: 
-<a href="https://www.linkedin.com/in/sachin-dhariwal-bb682b121/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+- :mailbox:How to reach me:sachin.dhariwal125@gmail.com
+- 🧑‍🎓My Portfolio Link:<a href="https://sachin59.github.io/sachin59-github.io/">Portfolio</a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
