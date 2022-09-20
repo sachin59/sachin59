@@ -34,7 +34,7 @@ I am a aspiring Java Backend Developer with a passion and curiosity for learning
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=sachin59&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=sachin59&style=flat-square&color=blue" align="center" alt=""/>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
