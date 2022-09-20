@@ -20,7 +20,8 @@ I am a aspiring Java Backend Developer with a passion and curiosity for learning
 
 - :zap: I am efficient in HTML, CSS, Javascript and Java.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/sachin-dhariwal-bb682b121/">
+- :mailbox:How to reach me: 
+<a href="https://www.linkedin.com/in/sachin-dhariwal-bb682b121/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -31,7 +32,7 @@ I am a aspiring Java Backend Developer with a passion and curiosity for learning
   <a href="https://www.linkedin.com/in/sachin-dhariwal-bb682b121/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="sachin59.github.io/sachin59-github.io/">
+  <a href="https://twitter.com/DhariwalSachin">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
