@@ -20,6 +20,9 @@ I am a aspiring Java Backend Developer with a passion and curiosity for learning
 
 - :zap: I am efficient in HTML, CSS, Javascript and Java.
 
+-🧑‍ My motivation source is zeal to learn new technologies and achieve big in IT industry.
+
+### :man_technologist: Contact Me :
 - :mailbox: How to reach me:sachin.dhariwal125@gmail.com
 - 🧑‍ My Portfolio Link:<a href="https://sachin59.github.io/sachin59-github.io/">Portfolio</a>
 
