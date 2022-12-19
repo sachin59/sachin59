@@ -66,5 +66,3 @@ I am a aspiring Java Backend Developer with a passion and curiosity for learning
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachin59&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin59)](https://github.com/sachin59/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin59&layout=compact&theme=vision-friendly-dark)](https://github.com/sachin59/github-readme-stats)
